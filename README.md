@@ -14,4 +14,4 @@ wget https://raw.githubusercontent.com/akshu20791/Deployment-script/main/jenkins
 ./jenkins.sh
 service jenkins start
 
-
+https://docs.google.com/document/d/16F9Fegy_kvv0M_c6DOvbMSs2dnxLdmAF/edit?usp=drive_link
